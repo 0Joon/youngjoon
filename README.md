@@ -4,6 +4,7 @@
 | :--------: | :--------: | :--------: | -------- | :--------: | :--------: |
 | 20.04.24 | JAVA | hackerrank | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) |  [바로가기](https://github.com/0Joon/youngjoon/blob/master/Java/20.04.24/JavaOutputFormatting.java) |  [결과](https://github.com/0Joon/youngjoon/issues/3) |
 | 20.04.24 | JAVA | hackerrank | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) |  [바로가기](https://github.com/0Joon/youngjoon/blob/master/Java/20.04.24/JavaDatatypes.java) |  [결과](https://github.com/0Joon/youngjoon/issues/4) |
+| 20.04.24 | JAVA | hackerrank | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) |  [바로가기](https://github.com/0Joon/youngjoon/blob/master/Java/20.04.24/JavaDateAndTime.java) |  [결과](https://github.com/0Joon/youngjoon/issues/5) |
 
 
 # algorithm study - 알고리즘
